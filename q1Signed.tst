@@ -1,7 +1,7 @@
 
 load me.hdl,
 output-file me.out,
-compare-to q1 signed.cmp,
+compare-to q1Signed.cmp,
 output-list x%B3.16.3 y%B3.16.3 as%B3.1.3 s%B3.16.3 overflow%B3.1.3;
 
 set x %B0000000000001000,
